@@ -1,0 +1,31 @@
+body {
+    font-family: "Arial", sens-serif;
+    font-size: 20px;
+}
+.button {
+    display: flex;
+    width: 800px;
+    justify-content: center;
+    margin:  auto;
+}
+.counter {
+    display: block;
+    border: 2px solid blue;
+    border-radius: 25px;
+    text-align: center;
+    width: 100px;
+    margin: 10px 15px 10px 10px;
+}
+.butt {
+
+    padding: 10px;
+    border: 2px solid blue;
+    border-radius: 35px;
+    text-align: center;
+    font-size: 15px;
+    color: black;
+    background-color: gray;
+}
+.butt:hover {border: 2px solid rebeccapurple;
+   background-color: dimgray;
+}

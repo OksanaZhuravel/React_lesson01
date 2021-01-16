@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://education/./src/App.css"],"names":[],"mappings":";AACA;IACI,aAAa;IACb,YAAY;IACZ,uBAAuB;IACvB,YAAY;AAChB","file":"main.css","sourcesContent":["\r\n.button {\r\n    display: flex;\r\n    width: 200px;\r\n    justify-content: center;\r\n    margin: auto;\r\n}\r\n"],"sourceRoot":""}
